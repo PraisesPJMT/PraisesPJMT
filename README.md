@@ -3,18 +3,12 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+I'm+Praises+%F0%9F%91%8B;Full+Stack+Web+Developer;Looking+For+New+Opportunities;Problem+Solver;Freelancer;Open-Source+Enthusiast;Always+Learning+New+Things" alt="Headline">
 </p>
 
-<br>
-
 <p align="right"> <h3>Profile Views :-</h3>
  <img align="left" src="https://gpvc.arturio.dev/praisespjmt" alt="Profile views" align='right'/> <a href="https://github.com/PraisesPJMT/PraisesPJMT"> </a> 
 <br/> 
   </p>
-
-<br>
 <p>
 <span><img align="right" src="assets/coding_animation_.gif" alt="Praises Tula Coding" width="50%" /></span>
-
-
 - 🌱 I am a self-taught Full Stack Developer
 - 🌟 I am looking for new opportunities
 - 📫 How to reach me <a href="mailto:praisesmusa@gmail.com">**praisesmusa@gmail.com**</a>
