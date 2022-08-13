@@ -4,7 +4,7 @@
 </p>
 
 <p align="right"> <h3>Profile Views :-</h3>
- <img align="left" src="https://gpvc.arturio.dev/praisespjmt" alt="Profile views" align='right'/> <a href="https://github.com/PraisesPJMT/PraisesPJMT"> </a> 
+ <img align="left" src="https://gpvc.arturio.dev/praisespjmt" alt="Profile views" align='left'/> <a href="https://github.com/PraisesPJMT/PraisesPJMT"> </a> 
 <br/> 
   </p>
 <p>
