@@ -102,26 +102,29 @@
 <a href="https://www.adobe.com/in/products/illustrator.html"
     target="_blank" rel="noreferrer"> <img
       src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
+      height="40" /> </a>
+<a href="https://inkscape.org/"
+    target="_blank" rel="noreferrer"> <img
+      src="assets/R.png" alt="Inkscape" width="40"
       height="40" /> </a> 
 </p>
 
 <br>
-
 <h3 align="center">Statistical Data :-</h3>
 <p align="center"><img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=praisespjmt&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
     bg_color=#808080/></p>
 
-<br>
+<hr />
 
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=praisespjmt&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="adam-pw" /></p>
 
-<br>
+<hr />
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=praisespjmt&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
-
+<hr />
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
