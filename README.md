@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Praises Tula</h1>
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+I'm+Praises+%F0%9F%91%8B;Full+Stack+Web+Developer;Problem+Solver;Freelancer;Open-Source+Enthusiast;Always+Learning+New+Things" alt="Headline">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+I'm+Praises+%F0%9F%91%8B;Full+Stack+Web+Developer;Looking+For+New+Opportunities;Problem+Solver;Freelancer;Open-Source+Enthusiast;Always+Learning+New+Things" alt="Headline">
 </p>
 
 <br>
@@ -16,7 +16,7 @@
 
 
 - 🌱 I am a self-taught Full Stack Developer
-
+  🌟 I am looking for new opportunities
 - 📫 How to reach me <a href="mailto:praisesmusa@gmail.com">**praisesmusa@gmail.com**</a>
 - 📚 I have a Post Graduate Diploma in Aerospace Engineering from the Air Force Institute of Technology, Kaduna at Nigeria
 - 🌟 Main languages: Python, JavaScript, Ruby, and C
