@@ -9,6 +9,7 @@
   </p>
 <p>
 <span><img align="right" src="assets/coding_animation_.gif" alt="Praises Tula Coding" width="50%" /></span>
+
 - 🌱 I am a self-taught Full Stack Developer
 - 🌟 I am looking for new opportunities
 - 📫 How to reach me <a href="mailto:praisesmusa@gmail.com">**praisesmusa@gmail.com**</a>
