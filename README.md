@@ -16,7 +16,7 @@
 
 
 - 🌱 I am a self-taught Full Stack Developer
-  🌟 I am looking for new opportunities
+- 🌟 I am looking for new opportunities
 - 📫 How to reach me <a href="mailto:praisesmusa@gmail.com">**praisesmusa@gmail.com**</a>
 - 📚 I have a Post Graduate Diploma in Aerospace Engineering from the Air Force Institute of Technology, Kaduna at Nigeria
 - 🌟 Main languages: Python, JavaScript, Ruby, and C
