@@ -9,16 +9,16 @@
   </p>
 <p>
 
-- 🌱 I am a Full Stack Developer
-- 🌟 I am looking for new opportunities
-- 📫 How to reach me <a href="mailto:praisesmusa@gmail.com" target="_blank" rel="noreferrer">**praisesmusa@gmail.com**</a>
-- 📚 Checkout my portfolio here: <a href="https://praises-tula.netlify.app/" target="_blank" rel="noreferrer">**Praises Tula**</a>
-- 🌟 Main languages: Typescript, JavaScript, Ruby, and C
-- 🚩 Interested in solving challenging problems using software programs
-- 💖 In a complicated relationship with DevOps
-- ⚡ Fun fact :- I have 1+ years of remote work experience with devs
+-   🌱 I am a Full-stack Developer with a major as Front-end Developer
+-   🌟 I am looking for new opportunities
+-   📫 How to reach me <a href="mailto:dev.praises@gmail.com" target="_blank" rel="noreferrer">**dev.praises@gmail.com**</a>
+-   📚 Checkout my portfolio here: <a href="https://praises-tula.netlify.app/" target="_blank" rel="noreferrer">**Praises Tula**</a>
+-   🌟 Main languages: ReactJS, NextJS, Typescript, JavaScript, Ruby, and C
+-   🚩 Interested in solving challenging problems using software programs
+-   💖 In a complicated relationship with DevOps
+-   ⚡ Fun fact :- I have 3+ years of remote work experience with devs
     from all over the world
-- 🎵 Love soft music and :soccer: Liverpool FC
+-   🎵 Love soft music and :soccer: Liverpool FC
 
 <br>
 </p>
@@ -130,7 +130,7 @@
 
 ## Let's Work Together!
 
-If you have any questions about software development, or have an interesting project you want to collaborate with me, feel free to <a href="mailto:praisesmusa@gmail.com">contact me through email</a>.
+If you have any questions about software development, or have an interesting project you want to collaborate with me, feel free to <a href="mailto:dev.praises@gmail.com">contact me through email</a>.
 
 You can hire me as a freelancer on <a href="https://www.linkedin.com/in/praises-tula-9233aa76">LinkedIn</a> to develop, improve, or deploy your software project on web.
 
