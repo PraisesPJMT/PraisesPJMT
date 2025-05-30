@@ -12,7 +12,7 @@
 -   🌱 I am a Full-stack Developer with a major as Front-end Developer
 -   🌟 I am looking for new opportunities
 -   📫 How to reach me <a href="mailto:dev.praises@gmail.com" target="_blank" rel="noreferrer">**dev.praises@gmail.com**</a>
--   📚 Checkout my portfolio here: <a href="https://praises-tula.netlify.app/" target="_blank" rel="noreferrer">**Praises Tula**</a>
+-   📚 Checkout my portfolio here: <a href="https://praisestula.com.ng/" target="_blank" rel="noreferrer">**Praises Tula**</a>
 -   🌟 Main languages: ReactJS, NextJS, Typescript, JavaScript, Ruby, and C
 -   🚩 Interested in solving challenging problems using software programs
 -   💖 In a complicated relationship with DevOps
@@ -25,10 +25,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/praises-tula-9233aa76" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/s-tula-9233aa76" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Praises LinkedIn Profile" height="30" width="40" /></a>
-<a href="https://twitter.com/PraisesPJMT" target="blank"><img align="center"
+<a href="https://twitter.com/sPJMT" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="Praises Twitter Profile" height="30" width="40" /></a>
   <a href="https://web.facebook.com/praises.musa" target="blank"><img align="center"
